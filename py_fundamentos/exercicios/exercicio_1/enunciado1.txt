@@ -1,0 +1,64 @@
+EXERCÍCIO 1 – Cadastro de Usuário
+
+Crie um programa que solicite ao usuário:
+- Nome;
+- Idade;
+- Cidade.
+
+Ao final, exiba todas as informações cadastradas.
+
+
+EXERCÍCIO 2 – Funcionários de uma Empresa
+
+Solicite a quantidade de funcionários dos departamentos:
+- RH;
+- TI;
+- Financeiro.
+
+Calcule:
+- Total de funcionários da empresa.
+
+Em seguida, calcule a porcentagem que o RH representa em relação ao total de funcionários.
+
+
+EXERCÍCIO 3 – Soma de Dois Números
+
+Solicite dois números inteiros ao usuário.
+
+Calcule e exiba a soma dos dois valores.
+
+
+EXERCÍCIO 4 – Média de Notas
+
+Solicite quatro notas.
+
+Calcule a média aritmética das notas e exiba o resultado.
+
+
+EXERCÍCIO 8 – Pipeline de Processamento de Dados
+
+Solicite:
+- Quantidade de arquivos CSV;
+- Quantidade de linhas por arquivo.
+
+Calcule:
+- Total de linhas processadas.
+
+Em seguida, solicite:
+- Quantidade de colunas.
+
+Calcule:
+- Quantidade total de células processadas.
+
+
+EXERCÍCIO 9 – Faturamento com Desconto
+
+Solicite:
+- Preço do produto;
+- Quantidade vendida;
+- Percentual de desconto.
+
+Calcule:
+- Faturamento bruto;
+- Valor do desconto;
+- Faturamento após a aplicação do desconto.
