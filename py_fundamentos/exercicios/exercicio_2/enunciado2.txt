@@ -1,0 +1,143 @@
+Exercício 1 - Aprovação de Aluno
+
+Crie as variáveis:
+
+nome
+nota
+
+Utilize if e else para verificar:
+
+Se a nota for maior ou igual a 7, exiba:
+João foi aprovado.
+Caso contrário:
+João foi reprovado.
+Exercício 2 - Maior de Idade
+
+Crie a variável:
+
+idade
+
+Utilize if e else.
+
+Se a idade for maior ou igual a 18:
+
+Maior de idade.
+
+Caso contrário:
+
+Menor de idade.
+Exercício 3 - Temperatura
+
+Crie a variável:
+
+temperatura
+
+Se for maior ou igual a 30:
+
+Está muito quente.
+
+Caso contrário:
+
+Temperatura agradável.
+Exercício 4 - Salário
+
+Crie as variáveis:
+
+nome
+salario
+
+Se o salário for maior ou igual a 7000:
+
+Funcionário possui um salário alto.
+
+Caso contrário:
+
+Funcionário possui um salário baixo.
+Exercício 5 - Estoque
+
+Crie as variáveis:
+
+produto
+quantidade
+
+Se a quantidade for menor que 10:
+
+Estoque baixo.
+
+Caso contrário:
+
+Estoque suficiente.
+Exercício 6 - Análise de Funcionário
+
+Utilize um data frame semelhante ao que você criou anteriormente.
+
+Crie as colunas:
+
+nome
+idade
+salario
+
+Escolha um funcionário do data frame e utilize if e else para verificar o salário desse funcionário.
+
+Se o salário for maior ou igual a 7000, exiba:
+Salário alto.
+Caso contrário:
+Salário baixo.
+
+Desafio: Exiba também o nome do funcionário junto com a mensagem.
+
+Exercício 7 - Matriz de Temperaturas
+
+Utilize uma matriz contendo temperaturas de diferentes cidades.
+
+Selecione a temperatura da cidade de São Paulo.
+
+Utilize if e else.
+
+Se a temperatura for maior que 30:
+Alerta de calor.
+Caso contrário:
+Temperatura dentro do esperado.
+Exercício 8 - Média Escolar
+
+Crie um vetor contendo cinco notas.
+
+Calcule a média das notas.
+
+Utilize if e else.
+
+Se a média for maior ou igual a 6:
+Turma aprovada.
+Caso contrário:
+Turma reprovada.
+Exercício 9 - Vendas
+
+Crie as variáveis:
+
+produto
+valor_venda
+
+Utilize if e else.
+
+Se o valor da venda for maior ou igual a 1000:
+Venda de alto valor.
+Caso contrário:
+Venda comum.
+Exercício 10 - Classificação de Funcionário
+
+Crie as variáveis:
+
+nome
+desempenho
+
+Considere que o desempenho pode receber os valores:
+
+"Excelente"
+"Bom"
+
+Utilize if e else.
+
+Se o desempenho for igual a "Excelente":
+Funcionário elegível para promoção.
+Caso contrário:
+Funcionário permanece no cargo.
