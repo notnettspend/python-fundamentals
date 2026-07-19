@@ -1,0 +1,124 @@
+Exercício 1 – Classificação de Idade
+
+Solicite a idade de uma pessoa.
+
+Classifique-a da seguinte forma:
+
+Menor que 13 anos → Criança
+Entre 13 e 17 anos → Adolescente
+Entre 18 e 59 anos → Adulto
+60 anos ou mais → Idoso
+
+Utilize if, elif e else.
+
+Exercício 2 – Aprovação de Aluno
+
+Solicite:
+
+Nome do aluno;
+Quatro notas.
+
+Calcule a média.
+
+Exiba:
+
+Média maior ou igual a 7 → Aprovado
+Média entre 5 e 6.9 → Recuperação
+Média menor que 5 → Reprovado
+Exercício 3 – Cadastro de Funcionário
+
+Solicite:
+
+Nome;
+Idade;
+Salário.
+
+Informe:
+
+Pode ocupar cargo de liderança se:
+idade ≥ 25
+e salário ≥ 5000
+
+Caso contrário:
+
+Ainda não atende aos requisitos.
+
+(Use and.)
+
+Exercício 4 – Sistema de Login
+
+Solicite:
+
+Usuário;
+Senha.
+
+Considere:
+
+Usuário: admin
+Senha: python123
+
+Se ambos estiverem corretos:
+
+Login realizado com sucesso.
+
+Caso contrário:
+
+Usuário ou senha inválidos.
+
+(Use and.)
+
+Exercício 5 – Elegibilidade para Empréstimo
+
+Solicite:
+
+Idade;
+Salário.
+
+A pessoa poderá solicitar empréstimo se:
+
+idade ≥ 18
+e
+salário ≥ 2500
+
+Caso contrário:
+
+Solicitação recusada.
+Exercício 6 – Controle de Acesso
+
+Solicite:
+
+Idade;
+Possui autorização dos pais? (sim ou nao)
+
+A entrada será permitida se:
+
+idade ≥ 18
+
+ou
+
+autorização = "sim"
+
+(Use or.)
+
+Exercício 7 – Classificação de Salário
+
+Solicite o salário.
+
+Classifique:
+
+Menor que R$ 2.000 → Baixa renda
+Entre R$ 2.000 e R$ 5.000 → Renda média
+Acima de R$ 5.000 → Alta renda
+Exercício 8 – Validação de Dados
+
+Solicite a idade.
+
+Caso seja negativa:
+
+Idade inválida.
+
+Caso contrário:
+
+Idade válida.
+
+Depois utilize not para verificar se a idade informada não é negativa antes de continuar o programa.
