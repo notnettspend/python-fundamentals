@@ -1,0 +1,51 @@
+Exercício 1 – Soma de números
+
+Peça ao usuário para informar 5 números.
+
+Utilize um while para calcular a soma de todos eles.
+
+Ao final, exiba:
+
+A soma dos números é: X
+Exercício 2 – Média de Notas
+
+Solicite as notas de 4 alunos utilizando um while.
+
+Calcule a média.
+
+Depois informe:
+
+Média ≥ 7 → Aprovado
+Média entre 5 e 6.9 → Recuperação
+Média < 5 → Reprovado
+Exercício 3 – Sistema de Login
+
+Repita a solicitação de usuário e senha até que estejam corretos.
+
+Dados corretos:
+
+Usuário: admin
+Senha: python123
+
+Enquanto estiver errado:
+
+Usuário ou senha inválidos.
+
+Quando acertar:
+
+Login realizado com sucesso.
+Exercício 4 – Cadastro de Funcionários
+
+Pergunte quantos funcionários serão cadastrados.
+
+Depois utilize um while para cadastrar:
+
+Nome
+Idade
+Salário
+
+Para cada funcionário informe:
+
+Pode ocupar cargo de liderança
+Não pode ocupar cargo de liderança
+
